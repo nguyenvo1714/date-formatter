@@ -1,5 +1,7 @@
 <?php
 
+namespace Nguyenvc\DateFormatter;
+
 use Illuminate\Support\ServiceProvider;
 
 class DateFormatterProvider extends ServiceProvider
