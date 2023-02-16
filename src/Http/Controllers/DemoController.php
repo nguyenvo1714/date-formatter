@@ -1,6 +1,6 @@
 <?php
 
-namespace Nguyenvc\DateFormatter\Controllers;
+namespace Nguyenvc\DateFormatter\Http\Controllers;
 
 use Nguyenvc\DateFormatter\DateFormatter;
 use Illuminate\Http\Request;
