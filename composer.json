@@ -1,0 +1,25 @@
+{
+    "name": "nguyenvc/date-formatter",
+    "description": "date formatter",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nguyenvc\\DateFormatter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Võ Công Nguyên",
+            "email": "nguyenvc@bap.jp"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nguyenvc\\DateFormatter\\DateFormatterProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
